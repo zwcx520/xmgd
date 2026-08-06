@@ -17,7 +17,15 @@ window.HOME_DATA = {
     { icon: "fa-solid fa-code", count: 89, label: "代码星轨" },
     { icon: "fa-solid fa-heart", count: 1024, label: "心动次数" }
   ],
-  recent: [
+  recent: [   
+      {
+      icon: "fa-solid fa-feather", tag: "随笔", cat: "essay",
+      title: "夏夜里的星轨笔记",
+      desc: "好难",
+      content: "唉，生活的不易啊，累，活着难受哇。",
+      date: "2026.08.06",
+      tags: ["# 夏日", "# 随笔", "# 生活"]
+    },
     {
       icon: "fa-solid fa-feather", tag: "随笔", cat: "essay",
       title: "夏夜里的星轨笔记",
