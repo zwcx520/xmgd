@@ -11,8 +11,8 @@ window.ABOUT_DATA = {
       { icon: "fa-solid fa-mug-hot", text: "永远在喝奶茶" }
     ],
     social: [
-      { icon: "fa-brands fa-github", title: "GitHub", href: "#" },
-      { icon: "fa-brands fa-weibo", title: "微博", href: "#" },
+      { icon: "fa-brands fa-github", title: "GitHub", href: "https://github.com/zwcx520" },
+      { icon: "fa-brands fa-weibo", title: "微博", href: "https://weibo.com/u/7388419868" },
       { icon: "fa-brands fa-bilibili", title: "Bilibili", href: "#" },
       { icon: "fa-regular fa-envelope", title: "邮箱", href: "#" }
     ]
