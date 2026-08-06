@@ -20,7 +20,7 @@ window.HOME_DATA = {
   recent: [   
       {
       icon: "fa-solid fa-feather", tag: "随笔", cat: "essay",
-      title: "夏夜里的星轨笔记",
+      title: "生活不易",
       desc: "好难",
       content: "唉，生活的不易啊，累，活着难受哇。",
       date: "2026.08.06",
